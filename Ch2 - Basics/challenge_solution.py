@@ -2,6 +2,7 @@
 # LinkedIn Learning Python course by Joe Marini
 #
 
+
 def is_palindrome(teststr):
     # use the slice trick to reverse the string
     if teststr == teststr[::-1]:
